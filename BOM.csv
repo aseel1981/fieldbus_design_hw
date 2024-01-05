@@ -1,11 +1,17 @@
 tem No.,Part/Component Name,Description,Quantity,Unit Cost,Total Cost
-1,Sensor,,,,
-2,Keyence Laser Scanner,,,,
-3,ATI Toolchanger,,,,
-4,ATI Sensor Interface Plate System,,,,
-5,Sunrise Instruments Load Cell,,,,
-6,Sunrise Instruments Control Box,,,,
-7,NITRA Pneumatic Solenoid Valve,,,,
-8,NITRA Fluid Solenoid Valve,,,,
-9,Hydraulic Valve,,,,
-10,Gems Pressure Switch,,,,
+1,Keyence Laser Scanner,Line laser for scanning parts,2,$,$$
+2,ATI Toolchanger,Toolchanger for swapping flange+AC0-mounted tools,2,$,$$
+2.1,ATI Sensor Interface Plate System,ATI Toolchanger package for sensing lock +ACY- unlock,2,$,$$
+3,Sunrise Instruments Load Cell,Load Cell for sensing force,2,$,$$
+3.1,Sunrise Instruments Control Box,Control box for load cell,2,$,$$
+4,NITRA Pneumatic Solenoid Valve,+ACI-1 for spindle air cooling,4,$,$$
+5,NITRA Fluid Solenoid Valve,1 for spindle coolant line,2,$,$$
+6,Hydraulic Valve,+ACI-1 for hydraulic clamp set A,2,$,$$
+7,Gems Pressure Switch,+ACI-2 for hydraulic clamp set A,4,$,$$
+8,Vevor Hydraulic Pump,Hydraulic power for sheet clamping frame,1,$,$$
+9,Laptop,XYZ ,1,$,$$
+10, Gem 3600W sensors conector,GEMS SENSORS DIN Connector With Cable and Pull-up,2,$,$$
+11,DB9 Connector,DB9 to ethernet conector,24,$,$$
+12,Regular Ethernet Cables,Copper CAT7 Ethernet Cable Bulk,Bulk,$,$$
+13,Cisco managed ethernet switch ,"Network Switchw/expansion, 16 ports total",1,$,$$
+14,cell load cable,XXX,2,$,$$
